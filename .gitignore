@@ -18,7 +18,6 @@ aclocal.m4
 libtool
 ltmain.sh
 sox*.tar.gz
-*.txt
 *.pdf
 *.html
 sox.pc
@@ -30,3 +29,4 @@ CMakeFiles
 cmake_install.cmake
 *.a
 tags
+result

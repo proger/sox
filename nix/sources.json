@@ -1,0 +1,26 @@
+{
+    "gitignore": {
+        "branch": "master",
+        "description": "Nix function for filtering local git sources",
+        "homepage": "",
+        "owner": "hercules-ci",
+        "repo": "gitignore",
+        "rev": "f9e996052b5af4032fe6150bba4a6fe4f7b9d698",
+        "sha256": "0jrh5ghisaqdd0vldbywags20m2cxpkbbk5jjjmwaw0gr8nhsafv",
+        "type": "tarball",
+        "url": "https://github.com/hercules-ci/gitignore/archive/f9e996052b5af4032fe6150bba4a6fe4f7b9d698.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection",
+        "homepage": null,
+        "owner": "proger",
+        "repo": "nixpkgs",
+        "rev": "7178a4b14518b0fcee47ae2562595aa26dc4b8f9",
+        "sha256": "0fihvsrlyfn47zwrvfcn7p9n1yvnrflahkbfcg5sibmbglrjjj37",
+        "type": "tarball",
+        "url": "https://github.com/proger/nixpkgs/archive/7178a4b14518b0fcee47ae2562595aa26dc4b8f9.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
